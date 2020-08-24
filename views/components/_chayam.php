@@ -1,0 +1,1 @@
+Desenvolvido por <strong><a target="_blank" href="https://www.linkedin.com/in/luis-chayam-souza-bonif%C3%A1cio-azevedo-ba60671b2/"> Lu&iacute;s Chayam</a> <i class="fab fa-linkedin"></i></strong>
