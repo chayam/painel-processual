@@ -36,6 +36,12 @@ $nomeUser = Util::ajustaNomeLogin(Yii::$app->user->identity->nome);
                     </a>
                 </li>
                 <li class="nav-item has-treeview">
+                    <a href="<?= Url::to(['processo/create']) ?>" class="nav-link">
+                        <i class="nav-icon fas fa-plus"></i>
+                        <p>Nova Solicita&ccedil;&atilde;o</p>
+                    </a>
+                </li>
+                <li class="nav-item has-treeview">
                     <a href="<?= Url::to(['processo/']) ?>" class="nav-link">
                         <i class="nav-icon fas fa-search"></i>
                         <p>Buscar processo</p>

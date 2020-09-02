@@ -38,6 +38,7 @@ class LoginForm extends Model
     {
         return [
             'username' => 'CPF',
+            'password' => 'SENHA',
         ];
     }
 

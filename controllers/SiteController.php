@@ -134,7 +134,7 @@ class SiteController extends Controller
                         foreach ($keys as $k) 
                         {
                             
-                            $model->addError($k, utf8_decode($att[$k][$i]));
+                            $model->addError($k, $att[$k][$i]);
                         }
                         $i++;
                     }

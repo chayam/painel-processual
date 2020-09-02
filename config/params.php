@@ -1,7 +1,5 @@
 <?php
-
 return [
-    // informe o token
-    'token' => '',
-    'endpoint' => $url,
+    'token' => 'informeaquiseutoken',
+    'endpoint' => 'http://localhost/micro-backend/web/v1/',
 ];
